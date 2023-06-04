@@ -33,5 +33,6 @@ for card in cards:
     except:
         break
 
+
 print(items)
 driver.quit()
